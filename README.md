@@ -90,7 +90,7 @@ When updating this addon, make sure to run the generate command. Choose `no` to 
 
 `ember g ember-responsive`
 
-## Updating to 3.x (Still in beta)
+## Updating to 3.x
 
 The major breaking changes to update to 3.x are so far:
 - Test helpers are now all covered by `setBreakpoint`
